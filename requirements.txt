@@ -1,3 +1,5 @@
+pytz
+flask
 Pillow
 instagrapi
 requests
