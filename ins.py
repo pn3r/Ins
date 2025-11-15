@@ -18,6 +18,10 @@ w = Fore.WHITE
 cy = Fore.CYAN
 ye = Fore.YELLOW
 
+from alive import alive
+
+alive()
+
 @contextlib.contextmanager
 def suppress_stdout_stderr():
     with open(os.devnull, 'w') as fnull:
