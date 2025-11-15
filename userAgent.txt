@@ -1,0 +1,11 @@
+Instagram 291.0.0.30.120 Android (33/13; 440dpi; 1080x2400; Xiaomi/xiaomi; Redmi Note 13; 2312DRA50G; mediatek; en_US; 353166753)
+app_version=291.0.0.30.120
+android_version=33
+android_release=13
+dpi=440dpi
+resolution=1080x2400
+manufacturer=Xiaomi
+device=2312DRA50G
+model=Redmi Note 13
+cpu=mediatek
+version_code=353166753
